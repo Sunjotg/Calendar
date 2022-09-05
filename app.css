@@ -308,3 +308,10 @@ body {
         opacity: 1;
     }
 }
+
+@media screen and (max-width: 570px) {
+    .light {
+        max-width: 350px;
+        display: flex;
+    }
+  }
